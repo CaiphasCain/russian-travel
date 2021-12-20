@@ -13,3 +13,13 @@
 .cover__title:last-of-type{
   padding-bottom: 32px;
 }
+
+@media (max-width: 320px) {
+  .cover__title{
+    line-height: 35px;
+    font-size: 32px;
+  }
+  .cover__title:last-of-type{
+    padding-bottom: 16px;
+  }
+}
