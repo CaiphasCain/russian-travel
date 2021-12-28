@@ -1,11 +1,11 @@
 .place__title{
   margin: 0;
   padding: 0;
-  font-family: Inter;
   color: #fff;
   line-height: 76px;
   font-size: 72px;
   font-weight: 900;
+  align-self: end;
 }
 
 @media (max-width: 768px){
@@ -15,9 +15,12 @@
     }
   }
 
-@media (max-width: 768px){
+@media (max-width: 649px){
   .place__title{
     line-height: 35px;
     font-size: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
+

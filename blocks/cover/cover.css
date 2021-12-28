@@ -1,5 +1,8 @@
 .cover{
   padding: 92px 48px;
+  font-family: 'Inter', Arial, sans-serif;
+  max-width: 1184px;
+  margin: 0 auto;
 }
 
 @media (max-width: 1024px) {
