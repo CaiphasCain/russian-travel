@@ -15,9 +15,3 @@
     padding-right: 0;
   }
 }
-
-@media (max-width: 611px) {
-  .footer__link::before{
-    padding-bottom: 32px;
-  }
-}
