@@ -1,0 +1,7 @@
+.header__lang-padding{
+  padding-right: 18px;
+}
+
+.header__lang-padding:last-of-type{
+  padding-right: 0;
+}
